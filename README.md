@@ -1,1 +1,2 @@
-# My-Repository-
+Prework-Study-Guide 
+Bootcamp prework for students
